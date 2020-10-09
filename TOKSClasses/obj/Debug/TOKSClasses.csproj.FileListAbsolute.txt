@@ -1,0 +1,6 @@
+C:\Users\olegv\source\repos\TOKSClasses\bin\Debug\TOKSClasses.dll
+C:\Users\olegv\source\repos\TOKSClasses\bin\Debug\TOKSClasses.pdb
+C:\Users\olegv\source\repos\TOKSClasses\obj\Debug\TOKSClasses.csprojAssemblyReference.cache
+C:\Users\olegv\source\repos\TOKSClasses\obj\Debug\TOKSClasses.csproj.CoreCompileInputs.cache
+C:\Users\olegv\source\repos\TOKSClasses\obj\Debug\TOKSClasses.dll
+C:\Users\olegv\source\repos\TOKSClasses\obj\Debug\TOKSClasses.pdb
